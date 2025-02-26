@@ -1,70 +1,92 @@
-{
-  "events": [
-    {
-      "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
-      "description": "Find your new feline friend at this event.",
-      "location": "Meow Town",
-      "date": "January 28, 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Kat Laydee"
-    },
-    {
-      "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
-      "time": "10:00",
-      "petsAllowed": true,
-      "organizer": "Fern Pollin"
-    },
-    {
-      "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "petsAllowed": false,
-      "organizer": "Carey Wales"
-    },
-    {
-      "id": 1001,
-      "category": "animal welfare",
-      "title": "Dog Adoption Day",
-      "description": "Find your new canine friend at this event.",
-      "location": "Woof Town",
-      "date": "August 28, 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Dawg Dahd"
-    },
-    {
-      "id": 1002,
-      "category": "food",
-      "title": "Canned Food Drive",
-      "description": "Bring your canned food to donate to those in need.",
-      "location": "Tin City",
-      "date": "September 14, 2022",
-      "time": "3:00",
-      "petsAllowed": true,
-      "organizer": "Kahn Opiner"
-    },
-    {
-      "id": 1003,
-      "category": "sustainability",
-      "title": "Highway Cleanup",
-      "description": "Help pick up trash along the highway.",
-      "location": "Highway 50",
-      "date": "July 22, 2022",
-      "time": "11:00",
-      "petsAllowed": false,
-      "organizer": "Brody Kill"
-    }
-  ]
-}
+[
+  {
+    "title": "Chastity cage to be undone only after begging",
+    "description": "Your release is not your choice—it comes only when you've begged enough. 🔒🥺",
+    "category": "chastity",
+    "color": "burgundy"
+  },
+  {
+    "title": "The vibrator to be used until movement stops",
+    "description": "No escape, no rest—hold still, or the teasing never ends. 🔋💦",
+    "category": "denial",
+    "color": "light-pink"
+  },
+  {
+    "title": "Blindfold—make me feel everything unseen",
+    "description": "Darkness heightens every touch, every whisper—trust and surrender. 🖤👀",
+    "category": "sensation",
+    "color": "baby-blue"
+  },
+  {
+    "title": "Edging—again and again, until I say stop",
+    "description": "Pleasure builds, only to be stolen away—can you handle the frustration? 🔄🔥",
+    "category": "denial",
+    "color": "light-pink"
+  },
+  {
+    "title": "Fingering—count my fingers, one by one",
+    "description": "Every finger, deeper than the last—until you lose track. 🖐️🍑",
+    "category": "anal-play",
+    "color": "burgundy"
+  },
+  {
+    "title": "One more, just one more—spanking stops when you beg earnestly",
+    "description": "Each smack leaves a mark, each mark a memory—will you plead for mercy? 🍑✋",
+    "category": "spanking",
+    "color": "burgundy"
+  },
+  {
+    "title": "Hands tied, body exposed—touch me where you want, how you want",
+    "description": "Bound and vulnerable, every touch is yours to command. 🤲🔗",
+    "category": "bondage",
+    "color": "baby-blue"
+  },
+  {
+    "title": "Control my pleasure—I obey your rhythm",
+    "description": "Every motion dictated by you, my body yours to command. 🎶🖤",
+    "category": "control",
+    "color": "burgundy"
+  },
+  {
+    "title": "No words, just moans—speak, and you lose privileges",
+    "description": "Only sounds of pleasure are allowed—words will cost you. 🤫🔥",
+    "category": "submission",
+    "color": "light-pink"
+  },
+  {
+    "title": "Pinned down, spread wide—resistance only earns more restraint",
+    "description": "Fight and I'll tighten the grip—give in, and I'll reward you. 🤲🖤",
+    "category": "bondage",
+    "color": "baby-blue"
+  },
+  {
+    "title": "Tease me, deny me, worship me—build me up, then take it away",
+    "description": "Pleasure at your mercy, desire without relief. 💋🔥",
+    "category": "denial",
+    "color": "light-pink"
+  },
+  {
+    "title": "Lips only—no hands, no escape",
+    "description": "Your mouth is your only tool—use it well. 👄💦",
+    "category": "oral",
+    "color": "light-pink"
+  },
+  {
+    "title": "Bite me, mark me—leave your mark on my skin",
+    "description": "Teeth sinking in, reminders of desire left behind. 🦷🔥",
+    "category": "sensation",
+    "color": "burgundy"
+  },
+  {
+    "title": "Every moan means you stop—stay quiet, or be left wanting",
+    "description": "Silence is survival—make a sound, and it's over. 🤐💥",
+    "category": "denial",
+    "color": "light-pink"
+  },
+  {
+    "title": "Edge, beg, repeat—beg well, or start over",
+    "description": "Only the sweetest words will earn your release—are you convincing enough? 🔄🙏",
+    "category": "denial",
+    "color": "light-pink"
+  }
+]
